@@ -1,0 +1,1 @@
+.languages{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 22px;align-items:center}.languages span{font-weight:700}.languages .lang{padding:5px 8px;border:2px solid var(--ink);box-shadow:none;border-radius:8px;background:#fff;font-size:.78rem}.languages .lang.active{background:var(--mint)}
